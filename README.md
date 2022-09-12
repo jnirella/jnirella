@@ -1,4 +1,6 @@
-# Welcome, my name is Jose Nirella and I am studying to be a Web Developer.
+# Jose Nirella
+
+## Welcome, my name is Jose Nirella and I am studying to be a Web Developer.
 
 ## Where you can find me:
 
