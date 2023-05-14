@@ -4,7 +4,7 @@
 
 ### Where you can find me:
 
-<img src="https://raw.githubusercontent.com/jnirella/jnirella/main/imagenes/linkedin_logo.png" width="25" height="25" style="padding-top:5px" /> https://www.linkedin.com/in/jose-nirella-291446148/
+<img src="https://raw.githubusercontent.com/jnirella/jnirella/main/imagenes/linkedin_logo.png" width="25" height="25" style="margin-top:5px" /> https://www.linkedin.com/in/jose-nirella-291446148/
 
 
 
