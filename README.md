@@ -6,6 +6,8 @@
 
 <img src="https://raw.githubusercontent.com/jnirella/jnirella/main/imagenes/linkedin_logo.png" width="25" height="25"/> https://www.linkedin.com/in/jose-nirella-291446148/
 
+My Portfolio: http://www.jnirella.com
+
 
 
 ### Technologies & languages knowledge:
