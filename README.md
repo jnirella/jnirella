@@ -8,16 +8,14 @@
 - HTML
 - Bootstrap
 - XML & DTD
-- Java
 - JavaScript
 - Vue
+- Symfony
 - PHP
 - Laravel + Eloquent
-- MySQL
+- MySQL / SqlServer
 - Git (Github & Bitbucket)
 - Linux (Ubuntu)
-- Dockers
-- Google Docs
 
   If you want to know more about me, go ahead and visit my portfolio www.jnirella.com
 
