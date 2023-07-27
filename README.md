@@ -1,8 +1,8 @@
 # Jose Nirella
 
-## Welcome, my name is Jose and I am studying to be a Web Developer.
+## Welcome to my repositories, my name is Jose and I am a Junior Web Developer.
 
-### Technologies & languages knowledge:
+### Some technologies & languages knowledge I do manage:
 
 - CSS
 - HTML
@@ -18,4 +18,6 @@
 - Linux (Ubuntu)
 - Dockers
 - Google Docs
+
+  If you want to know more about me, go ahead and visit my portfolio www.jnirella.com
 
